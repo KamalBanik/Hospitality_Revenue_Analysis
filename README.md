@@ -11,18 +11,6 @@ AtliQ Grands owns multiple five-star hotels across India.
 They have been in the hospitality industry for the past 20 years. 
 Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. Now they are looking for insights from their past historical data that can help them regain their market share and revenue
 
- # Dataset:
- 
-[dim_date.csv](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/files/15338741/dim_date.csv)
-
-[dim_hotels.csv](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/files/15338743/dim_hotels.csv)
-
-[dim_rooms.csv](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/files/15338744/dim_rooms.csv)
-
-[fact_aggregated_bookings.csv](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/files/15338745/fact_aggregated_bookings.csv)
-
-[fact_bookings.csv](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/files/15338746/fact_bookings.csv)
-
 
 
 
