@@ -24,22 +24,27 @@ Due to strategic moves from other competitors and ineffective decision-making in
 [fact_bookings.csv](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/files/15338746/fact_bookings.csv)
 
 
- 
-
- # Report Snapshot (Power BI DESKTOP)
 
 
-![executive view](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/assets/124190570/0a55ec02-e623-4f22-aedd-06bef92a7f46)
-
-![revenue analysis](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/assets/124190570/d27bca97-9a5c-4cad-b4c0-1d10a3076336)
+ # Dashboard Snapshot (Power BI DESKTOP)
 
 
-![property analysis](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/assets/124190570/dbec8c3a-4820-4c0c-ad53-5cd2538348b7)
+![executive view](https://github.com/KamalBanik/Hospitality_Revenue_Analysis/assets/124190570/2ff457bb-ba97-4fb0-9c34-4c6a905e9199)
 
-![city analysis](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/assets/124190570/388108a0-38e8-49c4-b9e6-0c502328115f)
 
-![booking analysis](https://github.com/KamalBanik/Hospitality-Revenue-Analysis/assets/124190570/22d3ae65-8745-4949-b7d1-8628f7d99945)
+![revenue analysis](https://github.com/KamalBanik/Hospitality_Revenue_Analysis/assets/124190570/76faaec4-6810-46ca-9f7b-23145b7668b2)
 
+
+
+![property analysis](https://github.com/KamalBanik/Hospitality_Revenue_Analysis/assets/124190570/d2bacc52-8000-404f-b256-0e2da7b7de7d)
+
+
+
+![city analysis](https://github.com/KamalBanik/Hospitality_Revenue_Analysis/assets/124190570/e3547a18-f67e-42a1-995d-5767c867bf5c)
+
+
+
+![booking analysis](https://github.com/KamalBanik/Hospitality_Revenue_Analysis/assets/124190570/e1e828f9-9ff3-47ba-affc-da1ca497dd9c)
 
 
 
